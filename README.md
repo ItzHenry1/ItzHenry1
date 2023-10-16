@@ -15,6 +15,8 @@ Me gusta mucho jugar videojuegos o tratar de aprender algo durante mis tiempos l
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-> Uso MongoDB con la libreria de [Mongoose](https://www.npmjs.com/package/mongoose)
+
+Libreria que uso para MongoDB:
+> [Mongoose](https://www.npmjs.com/package/mongoose)
 
 ### Sin mas que decir, Espero que tengas una bonita noche o tarde :)
